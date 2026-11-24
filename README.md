@@ -101,7 +101,7 @@ Agregar capturas de:
 
 ## Autor
 
-Nombre del estudiante: __________________
+Nombre del estudiante: Gutierrez Barajas Dante
 
 ## Reflexión
 
